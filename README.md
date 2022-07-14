@@ -29,7 +29,6 @@ Come and study with me☺️
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>  
-
 <br/>  
 
 
@@ -52,13 +51,4 @@ Come and study with me☺️
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Routhleck&&style=flat-square)  
   
-
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
