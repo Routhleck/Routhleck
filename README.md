@@ -13,7 +13,6 @@ the technical director of Beijing Zhinong Technology Co. LTD</h3>
 
 - 📫 How to reach me **1310722434@qq.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
