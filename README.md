@@ -7,7 +7,7 @@ the technical director of Beijing Zhinong Technology Co. LTD</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=routhleck" alt="routhleck" /></a> </p>
 
-- 🔭 I’m currently working on **Beijing Zhinong Technology Co. LTD & PKU NIPlab**
+- 🔭 I’m currently working in **Beijing Zhinong Technology Co. LTD & PKU NIPlab**
 
 - 🌱 I’m currently learning **CUDA, deep learning, Computational neuroscience**
 
