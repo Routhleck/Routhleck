@@ -11,7 +11,7 @@ the technical director of Beijing Zhinong Technology Co. LTD</h3>
 
 - 🌱 I’m currently learning **CUDA, deep learning, Computational neuroscience**
 
-- 📫 How to reach me **1310722434@qq.com**
+- 📫 How to reach me **1310722434@qq.com** or **20301037@bjtu.edu.cn**
 
 <p align="left">
 </p>
