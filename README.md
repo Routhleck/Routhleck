@@ -27,4 +27,7 @@ the technical director of Beijing Zhinong Technology Co. LTD</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=routhleck&" alt="routhleck" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Routhleck&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
