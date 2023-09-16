@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Routhleck He(He Sichao)</h1>
+<h1 align="center">Hi 👋, I'm Routhleck He(Sichao He)</h1>
 <h3 align="center">An undergraduate from Beijing Jiaotong University & 
 
 the technical director of Beijing Zhinong Technology Co. LTD</h3>
