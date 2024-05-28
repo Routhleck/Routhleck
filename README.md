@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Routhleck He(Sichao He)</h1>
-<h3 align="center">An undergraduate from Beijing Jiaotong University & 
+<h3 align="center">A PhD student from AAIS of Peking University & 
 
 the technical director of Beijing Zhinong Technology Co. LTD</h3>
 
@@ -11,7 +11,7 @@ the technical director of Beijing Zhinong Technology Co. LTD</h3>
 
 - 🔭 I’m currently working in **Beijing Zhinong Technology Co. LTD & PKU NIPlab**
 
-- 🌱 I’m currently learning **CUDA, deep learning, Computational neuroscience**
+- 🌱 I’m currently learning **Compiler, Deep Learning, Computational Neuroscience**
 
 - 📫 How to reach me **1310722434@qq.com** or **20301037@bjtu.edu.cn**
 
@@ -24,7 +24,7 @@ the technical director of Beijing Zhinong Technology Co. LTD</h3>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=routhleck&langs_count=8" alt="routhleck" /></p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=routhleck&rank_icon=percentile" alt="routhleck" />
-  <img src="https://wakatime.com/share/@routhleck/074660f9-fd60-44a2-af92-080967f4b2e1.svg" alt="我的WakaTime统计" width="700" />
+  <img src="https://wakatime.com/share/@routhleck/bb13db7c-ef79-44be-a316-669506289d9a.svg" alt="我的WakaTime统计" width="700" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=routhleck&" alt="routhleck" /></p> -->
