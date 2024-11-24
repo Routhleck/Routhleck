@@ -9,7 +9,7 @@ Technical director of Beijing Zhinong Technology Co. LTD</h3>
 
 - 📇 My home page: **https://routhleck.com**
 
-- 🔭 I’m currently working in **Beijing Zhinong Technology Co. LTD & PKU NIPlab**
+- 🔭 I’m currently working in **PKU NIPlab [@BrainPy](https://github.com/brainpy) [@Chao/Super Brain](https://github.com/chaobrain)**
 
 - 🌱 I’m currently learning **Compiler, Deep Learning, Computational Neuroscience**
 
