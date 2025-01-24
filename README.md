@@ -5,7 +5,7 @@
 
 - 📇 My home page: **https://routhleck.com**
 
-- 🔭 I’m currently working in **PKU NIPlab [@BrainPy](https://github.com/brainpy) [@Chao/Super Brain](https://github.com/chaobrain)**
+- 🔭 I’m currently working in **PKU NIPlab [@BrainPy](https://github.com/brainpy) [@Digital Brain Lab](https://github.com/chaobrain)**
 
 - 🌱 I’m currently learning **Compiler, Deep Learning, Computational Neuroscience**
 
