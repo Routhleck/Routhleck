@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Compiler, Deep Learning, Computational Neuroscience**
 
-- 📫 How to reach me **1310722434@qq.com** or **sichaohe@stu.pku.edu.cn**
+- 📫 How to reach me **sichaohe@outlook.com** or **sichaohe@stu.pku.edu.cn**
 
 <p align="left">
 </p>
