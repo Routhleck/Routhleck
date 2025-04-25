@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Routhleck He(Sichao He)</h1>
-<h3 align="center">PhD student from AAIS of Peking University</h3>
+<h3 align="center">PhD student at AAIS of Peking University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=routhleck&label=Profile%20views&color=0e75b6&style=flat" alt="routhleck" /> </p>
 
