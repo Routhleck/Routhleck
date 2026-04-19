@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sichao Routhleck He</h1>
+<h1 align="center">Hi 👋, I'm Sichao He</h1>
 <h3 align="center">PhD student at AAIS of Peking University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=routhleck&label=Profile%20views&color=0e75b6&style=flat" alt="routhleck" /> </p>
 
 - 📇 My home page: **https://routhleck.com**
 
-- 🔭 I’m currently working in **PKU NIPlab [@BrainPy](https://github.com/brainpy) [@Digital Brain Lab](https://github.com/chaobrain)**
-
-- 🌱 I’m currently learning **Compiler, Deep Learning, Computational Neuroscience**
+- 🌱 I’m currently learning **AI, Computational Neuroscience, Brain-inspired Computing**
 
 - 📫 How to reach me **sichaohe@outlook.com** or **sichaohe@stu.pku.edu.cn**
 
