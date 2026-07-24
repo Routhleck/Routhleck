@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=routhleck&rank_icon=percentile" alt="routhleck" />
+  <img src="https://github-stats-extended.vercel.app/api?username=routhleck&rank_icon=percentile" alt="routhleck" />
 </p>
 
 <details>
